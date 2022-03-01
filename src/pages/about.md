@@ -8,14 +8,8 @@ title: About
   <h3>About</h3>
 </div>
 
-[Vitesse](https://github.com/antfu/vitesse) is an opinionated [Vite](https://github.com/vitejs/vite) starter template made by [@antfu](https://github.com/antfu) for mocking apps swiftly. With **file-based routing**, **components auto importing**, **markdown support**, I18n, PWA and uses **UnoCSS** for styling and icons.
+Dark Souls Random Path generates a randomly ordered run through the bosses, taking into account the prerequisites of each boss
 
-```js
-// syntax highlighting example
-function vitesse() {
-  const foo = 'bar'
-  console.log(foo)
-}
-```
+You can see the boss order [here](https://www.deviantart.com/patryk567/art/Dark-Souls-Boss-Flowchart-802512790)
 
-Check out the [GitHub repo](https://github.com/antfu/vitesse) for more details.
+I'd love to do the same for Elden Ring, once I beat the game and I can't be spoiled anymore.

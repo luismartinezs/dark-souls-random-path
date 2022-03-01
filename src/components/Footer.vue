@@ -20,10 +20,6 @@ const toggleLocales = () => {
       <div i="carbon-sun dark:carbon-moon" />
     </button>
 
-    <a class="icon-btn mx-2" :title="t('button.toggle_langs')" @click="toggleLocales">
-      <div i-carbon-language />
-    </a>
-
     <router-link class="icon-btn mx-2" to="/about" :title="t('button.about')">
       <div i-carbon-dicom-overlay />
     </router-link>
