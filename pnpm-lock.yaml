@@ -31,6 +31,7 @@ specifiers:
   unocss: ^0.26.4
   unplugin-auto-import: ^0.6.1
   unplugin-vue-components: ^0.17.21
+  uuid: ^8.3.2
   vite: ^2.8.5
   vite-plugin-inspect: ^0.4.3
   vite-plugin-md: ^0.11.8
@@ -51,6 +52,7 @@ dependencies:
   nprogress: 0.2.0
   pinia: 2.0.11_typescript@4.5.5+vue@3.2.31
   prism-theme-vars: 0.2.2
+  uuid: 8.3.2
   vue: 3.2.31
   vue-demi: 0.12.1_vue@3.2.31
   vue-i18n: 9.1.9_vue@3.2.31
@@ -7062,7 +7064,6 @@ packages:
   /uuid/8.3.2:
     resolution: {integrity: sha512-+NYs2QeMWy+GWFOEm9xnn6HCDp0l7QBD7ml8zLUmJ+93Q5NF0NocErnwkTkXVFNiX3/fpC6afS8Dhb/gz7R7eg==}
     hasBin: true
-    dev: true
 
   /v8-compile-cache/2.3.0:
     resolution: {integrity: sha512-l8lCEmLcLYZh4nbunNZvQCJc5pv7+RCwa8q/LdUx8u7lsWvPDKmpodJAJNwkAhJC//dFY48KuIEmjtd4RViDrA==}
